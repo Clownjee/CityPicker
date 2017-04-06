@@ -1,4 +1,4 @@
-package com.clownjee.citypicker.adapter;
+package com.ghizzoniandrea.citypicker.adapter;
 
 import android.content.Context;
 import android.text.TextUtils;
@@ -9,18 +9,18 @@ import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.clownjee.citypicker.R;
-import com.clownjee.citypicker.model.City;
-import com.clownjee.citypicker.model.LocateState;
-import com.clownjee.citypicker.utils.PinyinUtils;
-import com.clownjee.citypicker.view.WrapHeightGridView;
+import com.ghizzoniandrea.citypicker.R;
+import com.ghizzoniandrea.citypicker.model.City;
+import com.ghizzoniandrea.citypicker.model.LocateState;
+import com.ghizzoniandrea.citypicker.utils.PinyinUtils;
+import com.ghizzoniandrea.citypicker.view.WrapHeightGridView;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
 /**
- * Created by Clownjee on 2017/2/4.
+ * Created by ghizzoniandrea on 2017/2/4.
  */
 public class CityListAdapter extends BaseAdapter {
     private static final int VIEW_TYPE_COUNT = 3;

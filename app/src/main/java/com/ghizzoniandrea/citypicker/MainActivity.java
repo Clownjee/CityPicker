@@ -1,4 +1,4 @@
-package com.clownjee.citypicker;
+package com.ghizzoniandrea.citypicker;
 
 import android.content.Intent;
 import android.os.Bundle;

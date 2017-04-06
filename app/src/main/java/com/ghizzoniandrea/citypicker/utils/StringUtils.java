@@ -1,7 +1,7 @@
-package com.clownjee.citypicker.utils;
+package com.ghizzoniandrea.citypicker.utils;
 
 /**
- * Created by Clownjee on 2017/2/4.
+ * Created by ghizzoniandrea on 2017/2/4.
  */
 public class StringUtils {
     /**

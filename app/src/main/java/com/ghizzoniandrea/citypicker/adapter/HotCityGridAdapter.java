@@ -1,4 +1,4 @@
-package com.clownjee.citypicker.adapter;
+package com.ghizzoniandrea.citypicker.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,13 +7,13 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.clownjee.citypicker.R;
+import com.ghizzoniandrea.citypicker.R;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Clownjee on 2017/2/4.
+ * Created by ghizzoniandrea on 2017/2/4.
  */
 public class HotCityGridAdapter extends BaseAdapter {
     private Context mContext;

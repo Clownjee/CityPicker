@@ -44,7 +44,7 @@
             android:textStyle="bold"
             android:visibility="gone"/>
 
-        <com.clownjee.citypicker.view.SideLetterBar
+        <com.ghizzoniandrea.citypicker.view.SideLetterBar
             android:id="@+id/side_letter_bar"
             android:layout_width="@dimen/side_letter_bar_width"
             android:layout_height="match_parent"

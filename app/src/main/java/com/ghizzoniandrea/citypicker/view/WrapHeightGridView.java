@@ -1,11 +1,11 @@
-package com.clownjee.citypicker.view;
+package com.ghizzoniandrea.citypicker.view;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.GridView;
 
 /**
- * Created by Clownjee on 2017/2/4.
+ * Created by ghizzoniandrea on 2017/2/4.
  */
 public class WrapHeightGridView extends GridView {
     public WrapHeightGridView(Context context) {

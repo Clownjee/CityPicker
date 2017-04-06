@@ -1,4 +1,4 @@
-package com.clownjee.citypicker.adapter;
+package com.ghizzoniandrea.citypicker.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,13 +7,13 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.clownjee.citypicker.R;
-import com.clownjee.citypicker.model.City;
+import com.ghizzoniandrea.citypicker.R;
+import com.ghizzoniandrea.citypicker.model.City;
 
 import java.util.List;
 
 /**
- * Created by Clownjee on 2017/2/4.
+ * Created by ghizzoniandrea on 2017/2/4.
  */
 public class ResultListAdapter extends BaseAdapter {
     private Context mContext;

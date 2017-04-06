@@ -1,4 +1,4 @@
-package com.clownjee.citypicker;
+package com.ghizzoniandrea.citypicker;
 
 import android.Manifest;
 import android.app.Activity;
@@ -11,7 +11,7 @@ import android.support.v4.content.ContextCompat;
 import android.widget.Toast;
 
 /**
- * Created by Taki on 2017/1/25.
+ * Created by ghizzoniandrea on 2017/1/25.
  */
 public class WelcomeActivity extends Activity {
     /**

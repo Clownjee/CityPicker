@@ -1,12 +1,12 @@
-package com.clownjee.citypicker.db;
+package com.ghizzoniandrea.citypicker.db;
 
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Environment;
 
-import com.clownjee.citypicker.R;
-import com.clownjee.citypicker.model.City;
+import com.ghizzoniandrea.citypicker.R;
+import com.ghizzoniandrea.citypicker.model.City;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -19,7 +19,7 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * Created by Clownjee on 2017/2/4.
+ * Created by ghizzoniandrea on 2017/2/4.
  */
 public class DBManager {
     private static final String DB_NAME = "city.db";

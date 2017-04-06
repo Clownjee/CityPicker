@@ -1,7 +1,7 @@
-package com.clownjee.citypicker.model;
+package com.ghizzoniandrea.citypicker.model;
 
 /**
- * Created by Clownjee on 2017/2/4.
+ * Created by ghizzoniandrea on 2017/2/4.
  */
 public class City {
     private String name;

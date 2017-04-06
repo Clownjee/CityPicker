@@ -1,4 +1,4 @@
-package com.clownjee.citypicker;
+package com.ghizzoniandrea.citypicker;
 
 import android.Manifest;
 import android.content.Intent;
@@ -28,18 +28,18 @@ import com.amap.api.location.AMapLocation;
 import com.amap.api.location.AMapLocationClient;
 import com.amap.api.location.AMapLocationClientOption;
 import com.amap.api.location.AMapLocationListener;
-import com.clownjee.citypicker.adapter.CityListAdapter;
-import com.clownjee.citypicker.adapter.ResultListAdapter;
-import com.clownjee.citypicker.db.DBManager;
-import com.clownjee.citypicker.model.City;
-import com.clownjee.citypicker.model.LocateState;
-import com.clownjee.citypicker.utils.StringUtils;
-import com.clownjee.citypicker.view.SideLetterBar;
+import com.ghizzoniandrea.citypicker.adapter.CityListAdapter;
+import com.ghizzoniandrea.citypicker.adapter.ResultListAdapter;
+import com.ghizzoniandrea.citypicker.db.DBManager;
+import com.ghizzoniandrea.citypicker.model.City;
+import com.ghizzoniandrea.citypicker.model.LocateState;
+import com.ghizzoniandrea.citypicker.utils.StringUtils;
+import com.ghizzoniandrea.citypicker.view.SideLetterBar;
 
 import java.util.List;
 
 /**
- * Created by Clownjee on 2017/2/4.
+ * Created by ghizzoniandrea on 2017/2/4.
  */
 public class CityPickerActivity extends AppCompatActivity implements View.OnClickListener {
     public static final String KEY_PICKED_CITY = "picked_city";
